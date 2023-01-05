@@ -7,7 +7,7 @@ main.Accio#Job p.hello-accio-job{
 }
 
 main.Accio#Job{
-	   width:150px;
-	   height:150px;
-	   background color:black;
+	width:150px;
+	height:150px;   
+	background color:black;
 }
